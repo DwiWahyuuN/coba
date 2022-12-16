@@ -1,0 +1,6 @@
+merek :
+1. Iphone
+2. Samsung
+3. xiaomi
+4. Vivo
+5. Oppo
